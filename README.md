@@ -8,6 +8,8 @@ Realiser un makefile permettant de de compiler un librairie statique.
 
 Realiser un makefile permettant de compiler un binaire utilisant plusieurs fichier sources et un fichier header.
 
+A partir de maintenant et pour tous les exos suivant, il doit y avoir 2 Makefile : 1 pour le programme et 1 pour la libft. (vous pouvez copier le Makefile du level_libft)
+
 ### level_01
 
 Realiser un makefile permettant de compiler et ajouter la libft a notre programme.
