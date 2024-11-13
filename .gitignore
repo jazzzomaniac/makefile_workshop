@@ -1,1 +1,8 @@
 Makefile
+test/
+example/
+.obj/
+binary
+*.o
+*.a
+*.d

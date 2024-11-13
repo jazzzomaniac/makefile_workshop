@@ -1,7 +1,7 @@
-#ifndef HEADER_H
-#define HEADER_H
+#ifndef ANIMAL_H
+#define ANIMAL_H
 
 int create_dauphin(void);
-int create_fox(void);
+int create_renard(void);
 
 #endif

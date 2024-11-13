@@ -1,6 +1,8 @@
 #include "animal.h"
 #include "fruit.h"
 #include "particle.h"
+#include "libft.h"
+#include <stdio.h>
 
 int main(void)
 {
@@ -15,6 +17,6 @@ int main(void)
     int positron = create_positron();
 
     int incantation_quantique_IA_blockchain_cyber = dauphin + renard + cynorhodon + grenade + jujube + pomelo + gluon + muon + positron;
-    printf("Resultat de la hype: %d\n", incantation_quantique_IA_blockchain_cyber);
+    printf("Resultat de la hype: %d\n", add_num(incantation_quantique_IA_blockchain_cyber, 42));
     return (0);
 }

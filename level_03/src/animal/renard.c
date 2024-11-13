@@ -1,4 +1,4 @@
-int create_fox(void)
+int create_renard(void)
 {
     return 94;
 }
