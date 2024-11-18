@@ -1,5 +1,12 @@
 # makefile_workshop
 
+Il n'est **pas** necessaire de faire TOUS les exercices. Le plus utile pour vous serait deja de comprendre et realiser les **level_libft** et **level_00**.
+
+Le **level_01** sera utile pour les projets de 42 ou vous pourrez commencer a utiliser la libft dans votre programme.
+
+Voyez les **level_02** et **level03** comme des bonus pour apprendre a mieux organiser son projet
+
+
 ### level_libft
 
 Realiser un makefile permettant de de compiler une librairie statique.
