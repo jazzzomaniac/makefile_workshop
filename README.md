@@ -2,7 +2,8 @@
 
 ### level_libft
 
-Realiser un makefile permettant de de compiler un librairie statique.
+Realiser un makefile permettant de de compiler une librairie statique.
+(Vous pourrez ensuite copier ce Makefile dans les sous-dossiers `libft` des level: 01, 02, 03)
 
 ---
 
